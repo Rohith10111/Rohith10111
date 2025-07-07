@@ -28,7 +28,7 @@
 ---
 
 ### 📝 Resume:
-- [📄 View My Resume](https://github.com/Rohith10111/Rohith10111/blob/main/Rohith_Paruvella_Resume.pdf) <!-- Replace with your actual uploaded file link -->
+- [📄 View My Resume](https://github.com/Rohith10111/Rohith10111/blob/main/Rohith%20paruvella%20%20Resume.pdf) <!-- Replace with your actual uploaded file link -->
 
 ---
 

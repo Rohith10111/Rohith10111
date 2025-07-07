@@ -27,6 +27,11 @@
 
 ---
 
+### 📝 Resume:
+- [📄 View My Resume](https://github.com/Rohith10111/Rohith10111/blob/main/Rohith_Paruvella_Resume.pdf) <!-- Replace with your actual uploaded file link -->
+
+---
+
 ### 💻 Technical Skills:
 #### Languages:
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)
@@ -68,6 +73,10 @@
 
 ---
 
+### 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohith10111&show_icons=true&theme=tokyonight" alt="github-stats" />
+</p>
 
 ---
 
